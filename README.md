@@ -2,5 +2,6 @@
 
 A world time flutter app.
 
-siti aisyah aqilah bt zakaria
+SSE3151 Mobile Application Development
+SITI AISYAH AQILAH BINTI ZAKARIA
 197241
